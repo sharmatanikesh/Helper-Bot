@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HelperBot/app/src/main/res/drawable/border.xml" value="0.2015" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HelperBot/app/src/main/res/drawable/border_left.xml" value="0.2015" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HelperBot/app/src/main/res/drawable/border_right.xml" value="0.2015" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HelperBot/app/src/main/res/drawable/ic_send.xml" value="0.12" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HelperBot/app/src/main/res/layout/activity_chat_bot.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HelperBot/app/src/main/res/layout/activity_chat_bot2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HelperBot/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HelperBot/app/src/main/res/layout/activity_otp_send.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HelperBot/app/src/main/res/layout/activity_otp_verify.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HelperBot/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HelperBot/app/src/main/res/layout/bot_msg_rv_item.xml" value="0.253125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/HelperBot/app/src/main/res/layout/user_msg_rv_item.xml" value="0.20854700854700856" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

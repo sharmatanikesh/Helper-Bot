@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059703543283",
+    "project_id": "helper-bot-35245",
+    "storage_bucket": "helper-bot-35245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059703543283:android:b4e6bb6f6d0805815f6e86",
+        "android_client_info": {
+          "package_name": "com.example.helperbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059703543283-d3tel0g9ctu7djin13r42m4rq9nl1tg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtWPo0x2hFDOyv73zIWGKe7dbavPj8a8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059703543283-d3tel0g9ctu7djin13r42m4rq9nl1tg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
